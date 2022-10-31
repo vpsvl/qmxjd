@@ -1,0 +1,1 @@
+import{p as c,r as e,o as n,c as _,b as o,w as a}from"./index.e529d690.js";const r={},l={class:"layout"};function i(u,v){const t=e("router-view"),s=e("v-scroll");return n(),_("div",l,[o(s,{class:"main","view-class":"main-scroll-view"},{default:a(()=>[o(t)]),_:1})])}const p=c(r,[["render",i]]);export{p as default};
